@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<h1
+  className="greetings-class"
+  data-testid="greetings"
+>
+  Hi 
+  Diana
+   a.k.a 
+  Wonder woman
+</h1>
+`;
+
+exports[`matches snapshot 2`] = `
+<h1
+  className="greetings-class"
+  data-testid="greetings"
+>
+  Hi 
+  Bruce
+   a.k.a 
+  Batman
+</h1>
+`;
